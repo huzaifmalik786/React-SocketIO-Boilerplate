@@ -1,11 +1,12 @@
 # Vite+React+typescript+Tailwind+Socket.io
 
-This is a basic react+node(MERN Stack) application with frontend setup using vite along with react + typescript + antd + tailwind and
+1. This is a basic react+node(MERN Stack) application with frontend setup using vite along with react + typescript + antd + tailwind and
 Socket.io and express for server application.
+1. All the main files lies in the src folder for both admin and server.
 
-# Steps to Reuse
+# Setup
 
-## Clone and setting up the repository
+## Cloning and setting up the repository
 ```
 git clone "https://github.com/huzaifmalik786/React-SocketIO-Template.git"
 ```
@@ -23,5 +24,5 @@ In the command line, run:
 ```
 cd server
 npm install
-npm run dev
+npm run dev (using nodemon)
 ```
