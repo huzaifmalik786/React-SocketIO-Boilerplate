@@ -26,3 +26,8 @@ cd server
 npm install
 npm run dev (using nodemon)
 ```
+
+## Build
+```
+npm run build
+```
