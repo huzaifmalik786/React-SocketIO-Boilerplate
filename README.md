@@ -1,26 +1,19 @@
-# Vite+React+typescript+Tailwind+Socket.io
+# kavach-cloud-application
+1. Vite + React + Typescript + Antd + Tailwind for admin.
+2. Express + Socket.io for server.
 
-1. This is a basic react+node(MERN Stack) application with frontend setup using vite along with react + typescript + tailwind and
-Socket.io and express for server application.
-1. All the main files lies in the src folder for both admin and server.
-
-# Setup
-In the root folder:
+# Development
+For admin:
 ```
-npm install/yarn
-```
-
-## For admin(frontend)
-In the command line, run:
-```
-cd apps/admin
 npm run dev
 ```
 
-## For server(backend)
-In the command line, run:
+For server (nodemon):
 ```
-cd apps/server
-npm run dev (using nodemon)
+npm run dev
 ```
 
+#Build
+```
+npm run build
+```

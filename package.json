@@ -1,0 +1,16 @@
+{
+  "name": "kavach-cloud-application",
+  "version": "1.0.0",
+  "description": "1. Vite + React + Typescript + Antd + Tailwind for admin. 2. Express + Socket.io for server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "private": "true",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
